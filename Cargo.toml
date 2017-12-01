@@ -1,14 +1,10 @@
 [package]
-name = "captchas"
+name = "aoc-2017"
 version = "0.1.0"
 authors = ["Adam Birtles <nerdopoly@icloud.com>"]
 
 [dependencies]
 
 [[bin]]
-name = "part1"
-path = "src/part1.rs"
-
-[[bin]]
-name = "part2"
-path = "src/part2.rs"
+name = "day01"
+path = "01-anticaptchas/main.rs"
