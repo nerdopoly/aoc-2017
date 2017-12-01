@@ -1,0 +1,6 @@
+[package]
+name = "captchas"
+version = "0.1.0"
+authors = ["Adam Birtles <nerdopoly@icloud.com>"]
+
+[dependencies]
