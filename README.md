@@ -1,1 +1,3 @@
-My solutions for [Advent of Code](https://adventofcode.com/) 2017
+My solutions in Rust for [Advent of Code 2017][aoc-2017].
+
+[aoc-2017]: https://adventofcode.com/2017
